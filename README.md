@@ -8,5 +8,6 @@ Submission kelulusan
 * API dengan konsep AJAX
 
 ### Output Program:
-* ![img]()
+* ![img](https://github.com/raissaputra/Belajar-Fundamental-Front-End-Web-Development/blob/main/assets/meal-finder-web.png)
+* ![img](https://github.com/raissaputra/Belajar-Fundamental-Front-End-Web-Development/blob/main/assets/meal-finder.png)
 
